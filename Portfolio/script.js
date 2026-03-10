@@ -71,7 +71,7 @@ async function loadResumeData() {
 
         // Initialize Typed JS after getting the data
         const typed = new Typed('.multiple-text', {
-            strings: [data.personalInfo.title, 'JAVA Developer', 'Cloud & DevOps Enthusiast '],
+            strings: [data.personalInfo.title, 'Java Developer', 'Cloud and DevOps Enthusiast '],
             typeSpeed: 100,
             backSpeed: 100,
             backDelay: 1000,
@@ -184,4 +184,5 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("experience").style.display = "block";
     loadResumeData();
 });
+
 
