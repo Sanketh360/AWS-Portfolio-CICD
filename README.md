@@ -2,8 +2,6 @@
 
 🚀 Deployed My Portfolio Website using AWS S3 + GitHub Actions CI/CD
 
-Excited to share that I successfully deployed my personal portfolio website using a fully automated CI/CD pipeline!
-
 ---
 
 ## 🔧 Tech Stack
